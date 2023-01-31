@@ -1,6 +1,7 @@
 #
-#Programming Club
-#Lesson 1
+#PROGRAMMING CLUB
+#LESSON ONE
+#
 #Print: "Hello World", String Concatenation
 #Variables: Integers, Strings
 #Operators: (Arithmetic): add, subtract, multiply, divide
