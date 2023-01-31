@@ -13,6 +13,7 @@
 
 #This is a comment 
 #This is another comment 
+#Create comments using the '#' symbol
 
 #Creating Integers Variables
 #
