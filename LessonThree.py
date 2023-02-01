@@ -51,4 +51,10 @@ else:
 #Enter '3' for Multiplication
 #Enter '4' for Division
 #Please make a selection:
-#
+#_1
+#Please enter two numbers to ADD
+#x:
+#_3
+#y:
+#_4
+#3 + 4 = 7
