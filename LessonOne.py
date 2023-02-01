@@ -78,7 +78,6 @@ print("z % y = " + result)
 
 
 #After your code compiles and runs successfully
-#If no other mistakes are found in your code
 #Your console should display the following results...
 #
 #x + y + z = 6
